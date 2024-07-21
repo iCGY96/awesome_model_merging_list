@@ -1,6 +1,15 @@
-# Awesome-Model-Merging-List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Model-Merging-List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-Here, we provide a non-exhaustive list of papers of model merging.
+This repository contains a collection of resources and papers on ***Model Merging***.
+
+## Contributing
+Please help contribute this list by [pull request](https://github.com/iCGY96/awesome_model_merging_list/pulls)
+
+Markdown format:
+```markdown
+  - Paper title. (**Conference Year**) [[pdf]](link) [[code]](link)
+```
 
 ## Paper
 
